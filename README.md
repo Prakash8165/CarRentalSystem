@@ -1,5 +1,3 @@
-# CarRentalSystem
-
 A Java-based Car Rental System that manages car rentals.
 
 Introduction
@@ -10,6 +8,7 @@ User Management: Register and manage user accounts.
 Car Management: Add, remove, and view available cars.
 Rental Management: Rent and return cars.
 Search Functionality: Search for cars based on different criteria.
+
 Usage
 Once the application is running, you can:
 
