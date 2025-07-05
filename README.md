@@ -17,4 +17,3 @@ Add a car to the system: Add new cars to the inventory.
 View available cars: See a list of cars that are available for rent.
 Rent a car: Choose a car from the list and rent it.
 Return a car: Return a rented car.
-<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>
